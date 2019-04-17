@@ -282,9 +282,8 @@
   .typeheader-3 .header-middle {
     background: #fff;
     clear: both;
-    padding: 40px 0 41px 0; }
-  .typeheader-3 .header-middle .middle3 {
-    padding-left: 30px; }
+    padding: 0px 0 0px 0; }
+ 
   .typeheader-3 .header-middle .middle3 .telephone {
     position: relative;
     font-size: 14px;
@@ -314,8 +313,7 @@
   .typeheader-3 .header-middle .middle3 .telephone span {
     font-weight: 600;
     color: #222; }
-  .typeheader-3 .header-middle .middle2 {
-    padding-left: 58px; }
+  
   .typeheader-3 .header-bottom {
     clear: both;
     padding-bottom: 0px;
@@ -459,12 +457,12 @@
   .typeheader-3 #sosearchpro .search input:focus {
     z-index: 0; }
   .typeheader-3 .shopping_cart {
-    width: 45%;
+    width: 100%;
     float: right;
     position: relative;
     border-radius: 3px; }
   .typeheader-3 .shopping_cart #cart {
-    float: right; }
+        float: left; }
   .typeheader-3 .shopping_cart .btn-shopping-cart .top_cart {
     position: relative; }
   .typeheader-3 .shopping_cart .btn-shopping-cart .top_cart .icon-c {
@@ -620,9 +618,6 @@
 .wrapper-boxed .typeheader-2 .telephone ul li:first-child {
   display: none; }
 
-.typeheader-3 .header-middle {
-  padding: 5px 0 5px 0;
-}
 
 .item-icon {
   width: 20px;

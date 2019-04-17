@@ -7879,7 +7879,7 @@ footer .copyright a {
  MODULE HOME SLIDER  
  *************************************************************************************************/
 .module.sohomepage-slider {
-  margin: 30px 0;
+   
   overflow: visible;
   position: relative; }
   .module.sohomepage-slider img {
@@ -9143,17 +9143,15 @@ footer .copyright a {
     .lastest-blog .list-blog .owl2-controls .owl2-nav .owl2-prev:hover:before, .lastest-blog .list-blog .owl2-controls .owl2-nav .owl2-next:hover:before {
       color: #fff; }
 
-      .navbar-logo {
-        width: 160px;
-      }
+      
 
       .typeheader-3 .header-middle .middle2 {
-        margin-top: 38px;
-        margin-left: 100px;
+        margin-top: 20px;
+       /* margin-left: 100px;*/
       }
 
       .typeheader-3 .header-middle .middle3 {
-        margin-top: 38px;
+        margin-top: 20px;
       }
 
 
@@ -9359,7 +9357,7 @@ margin-top: 20px;
 
 .owl-theme .owl-nav {
   font-size: 24px;
-  padding: 20px;
+  padding: 12px;
   opacity: .7;
 }
 

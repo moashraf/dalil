@@ -57,6 +57,24 @@ $('.owl-custom2').owlCarousel({
         }
     }
   });
+  
+  $('.owl-custom-custom').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:true,
+    dots: false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:5
+        }
+    }
+  });
 
   $('.owl-custom3').owlCarousel({
     loop:true,
